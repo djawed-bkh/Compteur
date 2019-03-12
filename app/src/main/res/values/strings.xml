@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exo2Bis</string>
+    <string name="but1">+1</string>
+    <string name="but10">+10</string>
+    <string name="but100">+100</string>
+    <string name="Affichage">0</string>
+</resources>
